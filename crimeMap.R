@@ -5,6 +5,7 @@
 #' ---
 
 library(leaflet.extras)
+library(magrittr)
 #'
 #'
 #' Data downloaded and extracted from
